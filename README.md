@@ -27,7 +27,7 @@
 4. 浏览器访问 http://localhost:3000/
 
 本系统功能展示图如下：
-
+![关系查询](./public/imgs/login)
 本项目只是纯前端项目，访问后端项目请到power-kg-node。
 
 
