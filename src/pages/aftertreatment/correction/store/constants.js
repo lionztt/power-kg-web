@@ -1,0 +1,1 @@
+export const GET_KG = "correction/GET_KG"

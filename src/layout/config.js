@@ -1,0 +1,1 @@
+export const SYSTERMNAME = '皮皮电力运检知识图谱分析系统'

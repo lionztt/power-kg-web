@@ -1,0 +1,8 @@
+export const CHANGE_DETAILVISIBLE = "kg/CHANGE_DETAILVISIBLE"
+export const CHANGE_DETAIL = "kg/CHANGE_DETAIL"
+export const CHANGE_EDITVISIBLE = "kg/CHANGE_EDITVISIBLE"
+
+export const CHANGE_RELATION = "kg/CHANGE_RELATION"
+export const CHANGE_ENTITY = "kg/CHANGE_ENTITY"
+export const GET_KG = "kg/GET_KG"
+export const GET_ENTITY = "kg/GET_ENTITY"

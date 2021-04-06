@@ -1,0 +1,6 @@
+export const CHANGE_LOGIN = "login/CHANGE_LOGIN"
+export const CHANGE_AUTHORITIES = "login/CHANGE_AUTHORITIES"
+export const CHANGE_USERNAME = "login/CHANGE_USERNAME"
+export const LOGOUT = "login/LOGOUT"
+export const REMOVE_USERNAME = "login/REMOVE_USERNAME"
+export const REMOVE_AUTHORITIES = "login/REMOVE_AUTHORITIES"

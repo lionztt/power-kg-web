@@ -1,0 +1,107 @@
+{
+  "id": "2199602",
+  "name": "电力知识图谱",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1881559",
+      "name": "自然语言处理",
+      "font_class": "ziranyuyanchuli",
+      "unicode": "e664",
+      "unicode_decimal": 58980
+    },
+    {
+      "icon_id": "15203368",
+      "name": "关系抽取",
+      "font_class": "guanxichouqu",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "9833318",
+      "name": "知识图谱2",
+      "font_class": "zhishitupu",
+      "unicode": "e918",
+      "unicode_decimal": 59672
+    },
+    {
+      "icon_id": "15243413",
+      "name": "知识图谱保存",
+      "font_class": "zhishitupubaocun",
+      "unicode": "e652",
+      "unicode_decimal": 58962
+    },
+    {
+      "icon_id": "15222476",
+      "name": "图谱数据源",
+      "font_class": "tupushujuyuan",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    },
+    {
+      "icon_id": "13872072",
+      "name": "日志管理",
+      "font_class": "rizhiguanli",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
+      "icon_id": "1119365",
+      "name": "账户管理",
+      "font_class": "zhanghuguanli",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "10883762",
+      "name": "关系图",
+      "font_class": "guanxitu",
+      "unicode": "e8bb",
+      "unicode_decimal": 59579
+    },
+    {
+      "icon_id": "11372779",
+      "name": "问答",
+      "font_class": "wenda",
+      "unicode": "e8c6",
+      "unicode_decimal": 59590
+    },
+    {
+      "icon_id": "15203377",
+      "name": "实体识别",
+      "font_class": "shitishibie",
+      "unicode": "e64b",
+      "unicode_decimal": 58955
+    },
+    {
+      "icon_id": "1721666",
+      "name": "皮卡丘",
+      "font_class": "pikachu",
+      "unicode": "e6c7",
+      "unicode_decimal": 59079
+    },
+    {
+      "icon_id": "9653736",
+      "name": "用户",
+      "font_class": "yonghu1",
+      "unicode": "e665",
+      "unicode_decimal": 58981
+    },
+    {
+      "icon_id": "10213489",
+      "name": "角色管理",
+      "font_class": "jiaoseguanli",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "15061463",
+      "name": "管理",
+      "font_class": "management",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    }
+  ]
+}
