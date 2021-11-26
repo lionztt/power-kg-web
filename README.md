@@ -1,11 +1,11 @@
-# 皮皮电力运检知识图谱分析系统前端
+# 皮皮电力运检知识图谱管理系统--前端
 
 项目路径：
 - config webpack配置文件
 - public 公共文件
 - scripts 项目命令脚本
 - src 项目资源
-    - components   通用组件
+    - components 通用组件
     - pages 页面组件
     - router 路由配置
     - statics 静态文件
@@ -22,8 +22,8 @@
 
 项目启动方法：
 1. 进入项目文件夹
-2. npm i 安装项目依赖
-3. npm start 启动项目
+2. yarn i 安装项目依赖
+3. yarn start 启动项目
 4. 浏览器访问 http://localhost:3000/
 
 本系统功能展示图如下：
@@ -33,7 +33,10 @@
 ![一度关系查询](./public/imgs/一度关系查询.png)
 ![用户管理](./public/imgs/用户管理.png)
 ![登录](./public/imgs/login.png)
-本项目只是纯前端项目，访问后端项目请到power-kg-node。
+本项目只是纯前端项目。 
+访问后端项目请到 [power-kg-node](https://github.com/lionztt/power-kg-node)。 
+访问知识图谱项目请到 [electric-power](https://github.com/bupt-mmai/electric-power)
+
 
 
 
